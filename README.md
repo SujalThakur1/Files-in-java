@@ -8,7 +8,7 @@ HOW TO START THIS PROJECT:
 2. Compile the program using the following command:
    ```bash
    javac Files.java
-   
+   java Files
 FEATURES:
 
 Option 1: Read from a file, write to a file, and copy a file.
