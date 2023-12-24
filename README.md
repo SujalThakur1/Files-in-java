@@ -5,7 +5,13 @@ UTHOR: Sujal Thakur
 
 HOW TO START THIS PROJECT:
 1. Open a terminal.
-2. Compile the program using the following command:
+2. Clone the repository:
+
+```bash
+   git clone https://github.com/SujalThakur1/Files-in-java.git
+   cd Files-in-java
+```
+3. Compile the program using the following command:
    ```bash
    javac Files.java
    java Files
