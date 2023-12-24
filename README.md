@@ -1,7 +1,6 @@
 PROJECT TITLE: File Operations in Java
 
 PURPOSE OF PROJECT: A Java program that performs various file operations, including reading from and writing to files, deciphering a file, processing numerical data in a text file, checking file existence and readability, storing a 2-D array in a file, and reading/writing objects from/to a file.
-UTHOR: Sujal Thakur
 
 HOW TO START THIS PROJECT:
 1. Open a terminal.
